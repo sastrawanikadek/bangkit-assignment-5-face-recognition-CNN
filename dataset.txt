@@ -1,0 +1,3 @@
+This project using FEI Face Database that was obtained from:
+https://fei.edu.br/~cet/facedatabase.html
+Dataset contains 2800 images with total of classes are 20 where each class contains 14 images.
